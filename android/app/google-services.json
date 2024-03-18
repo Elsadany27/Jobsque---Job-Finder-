@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971288663609",
+    "project_id": "amit-68832",
+    "storage_bucket": "amit-68832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971288663609:android:6085e065e76c9624651fe8",
+        "android_client_info": {
+          "package_name": "com.example.firbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB26YhdLWJciLPpCy1vl4Y_eZNun3pstv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
